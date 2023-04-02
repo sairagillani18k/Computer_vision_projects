@@ -12,12 +12,11 @@ is proportional to the brightness or gray levels of the image.
 ### Image vs Digital image.
 The value of f(x,y) will always be a discrete value in digital image but in image may or may not.
 
-## Numpy basics for Computer Vision
+## Numpy basics for Computer Vision <a href="[https://github.com/Murad9288](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/Numpy_for_cv)" target="_blank">
 NumPy is the fundamental package for scientific computing in Python.
 Its play arround arrays as we know image is also representable in form of arrays.
-we play with image using Numpy we also create masks, and filters etc by numpy we aslo create image in this Exercise.
+we play with image using Numpy we also create masks, and filters etc by numpy we aslo create image in this Exercise using numpy fuction that we studied.
 <br/>
-![numpy](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/Numpy_for_cv)
 
-
+ <a href="[https://github.com/Murad9288](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/Numpy_for_cv)" target="_blank">
 
