@@ -18,6 +18,4 @@ NumPy is the fundamental package for scientific computing in Python.
 Its play arround arrays as we know image is also representable in form of arrays.
 we play with image using Numpy we also create masks, and filters etc by numpy we aslo create image in this Exercise using numpy fuction that we studied.
 <br/>
- <a href="[https://github.com/sairagillani18k/Computer_vision_projects/tree/main/Numpy_for_cv]" > Numpy Basics for computer vision </a>
-
-
+[Click Here]([https://pages.github.com/](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/Numpy_for_cv/))
