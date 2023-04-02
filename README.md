@@ -12,7 +12,7 @@ is proportional to the brightness or gray levels of the image.
 ### Image vs Digital image.
 The value of f(x,y) will always be a discrete value in digital image but in image may or may not.
 
-## Numpy basics for Computer Vision [Click Here](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/Numpy_for_cv/)
+## Numpy basics for Computer Vision :  [*click here*](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/Numpy_for_cv/)
 
 
 NumPy is the fundamental package for scientific computing in Python.
