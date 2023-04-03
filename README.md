@@ -28,9 +28,10 @@ we studied the basics operation that are very importan for our cv journy and we 
 - Read and Write video
 - Apply that we make reverse from any given video <br/>
 ![reverse video](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/reversed_video.gif)
-<br/>
+
+
 - Draw the shapes on the image: its helpful in detection and loclaization task
 <br/>
-![shape_1](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/line_and_figure.png)
+![shape1](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/line_and_figure.png)
 <br/>
-![shape_1](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/poloygon_figure.py)
+![shape2](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/poloygon_figure.py)
