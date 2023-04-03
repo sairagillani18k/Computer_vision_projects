@@ -31,7 +31,7 @@ we studied the basics operation that are very importan for our cv journy and we 
 
 
 - Draw the shapes on the image: its helpful in detection and loclaization task
-<br/>
-![shape1](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/line_and_figure.png)
-<br/>
-![shape2](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/poloygon_figure.py)
+
+![line_and_figures](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/line_and_figure.png)
+
+![polygon](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/poloygon_figure.py)
