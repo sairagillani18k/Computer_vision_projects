@@ -34,4 +34,4 @@ we studied the basics operation that are very importan for our cv journy and we 
 
 ![line_and_figures](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/line_and_figure.png)
 
-![polygon](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/poloygon_figure.py)
+![polygon](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/poloygon.png)
