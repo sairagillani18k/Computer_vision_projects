@@ -18,4 +18,17 @@ The value of f(x,y) will always be a discrete value in digital image but in imag
 NumPy is the fundamental package for scientific computing in Python.
 Its play arround arrays as we know image is also representable in form of arrays.
 we play with image using Numpy we also create masks, and filters etc by numpy we aslo create image in this Exercise using numpy fuction that we studied.
+
+## Opencv : [*click here*](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/opencv/)
+**OpenCV** provides a real-time optimized Computer Vision library, tools, and hardware.
+we studied the basics operation that are very importan for our cv journy and we also make simple project from it.
 <br/>
+***what we learn:***
+- Read and Write image
+- Read and Write video
+- Apply that we make reverse from any given video <br/>
+![reverse video](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/reversed_video.gif)
+<br/>
+- Draw the shapes on the image: its helpful in detection and loclaization task
+![shape_1](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/line_and_figure.png)<br/>
+![shape_1](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/poloygon_figure.py)
