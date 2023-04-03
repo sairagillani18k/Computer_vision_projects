@@ -30,5 +30,7 @@ we studied the basics operation that are very importan for our cv journy and we 
 ![reverse video](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/reversed_video.gif)
 <br/>
 - Draw the shapes on the image: its helpful in detection and loclaization task
-![shape_1](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/line_and_figure.png)<br/>
+<br/>
+![shape_1](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/line_and_figure.png)
+<br/>
 ![shape_1](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/poloygon_figure.py)
