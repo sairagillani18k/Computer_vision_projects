@@ -21,7 +21,7 @@ we play with image using Numpy we also create masks, and filters etc by numpy we
 
 ## Opencv : [*click here*](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/opencv/)
 **OpenCV** provides a real-time optimized Computer Vision library, tools, and hardware.
-we studied the basics operation that are very importan for our cv journy and we also make simple project from it.
+we studied the basics operation that are very important for our cv journy and we also make simple project from it.
 <br/>
 ***what we learn:***
 - Read and Write image
