@@ -62,6 +62,9 @@ we studied the basics operation that are very important for our cv journy and we
 - Sharpning the image [***click here***](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/sharpning) <br/>
 ![sharpning](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/sharpning/sharpned.jpg)
 - Denoising the image [***click here***](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/bluring_denoising) <br/>
-![denoising](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/bluring_denoising/noise.jpg)
+![denoising](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/bluring_denoising/denoise.jpg)
+
+### Image pyramids and Image blending
+
 
 
