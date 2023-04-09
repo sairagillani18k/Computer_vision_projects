@@ -48,3 +48,8 @@ we studied the basics operation that are very important for our cv journy and we
    </li>
   
 </ul>
+
+![kernel](https://www.researchgate.net/profile/Chaim-Baskin/publication/318849314/figure/fig1/AS:614287726870532@1523469015098/Image-convolution-with-an-input-image-of-size-7-7-and-a-filter-kernel-of-size-3-3.png)
+
+
+
