@@ -56,10 +56,13 @@ we studied the basics operation that are very important for our cv journy and we
 #### Low pass filters 
 - Low pass filter is the type of frequency domain filter that **attenuates the high frequency** and preserves the low frequency componnents.
 
-- ###### Application
-- Bulering the image
-- Sharpning the image
-- Denoising the image
+ ##### Application
+- Bluring the image [***click here***](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/bluring_denoising)<br/>
+![bluring](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/bluring_denoising/blur.jpg)
+- Sharpning the image [***click here***](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/sharpning)<br/>
+![sharpning](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/sharpning/sharpned.jpg)
+- Denoising the image [***click here***](https://github.com/sairagillani18k/Computer_vision_projects/tree/main/bluring_denoising)<br/>
+![denoising]((https://github.com/sairagillani18k/Computer_vision_projects/tree/main/bluring_denoising/denoise.jpg)
 
 
 
