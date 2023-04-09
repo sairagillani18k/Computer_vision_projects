@@ -29,9 +29,22 @@ we studied the basics operation that are very important for our cv journy and we
 - Apply that we make reverse from any given video <br/>
 ![reverse video](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/reversed_video.gif)
 
-
 - Draw the shapes on the image: its helpful in detection and loclaization task
 
 ![line_and_figures](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/line_and_figure.png)
 
 ![polygon](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/poloygon.png)
+
+### Applying Filters 
+<ul>
+   <li> #### Computer vision Terminology
+      <ul>
+        <li>**Image filter:** The kernel is called the image filter. </li>
+        <li>**Image filtering:** The process of applying  kernel to given image is called image filtering</li>
+        <li>**Filtered image:** The output image after applying the kernel to the image is called the filtered image</li>
+        
+     </ul>
+     
+   </li>
+  
+</ul>
