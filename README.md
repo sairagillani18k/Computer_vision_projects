@@ -43,6 +43,16 @@ we studied the basics operation that are very important for our cv journy and we
       
 ![kernel](https://www.researchgate.net/profile/Chaim-Baskin/publication/318849314/figure/fig1/AS:614287726870532@1523469015098/Image-convolution-with-an-input-image-of-size-7-7-and-a-filter-kernel-of-size-3-3.png)
 
+#### What is frequency in image
+- Frequency refers to the **rate of change of pixel values**.
+- Sharp edges would be **High frequency** because pixel values change rapdily.
+- Plain areas would be **Low frequency** because pixel values not change to much.
+
+#### High pass filters 
+- High pass filter is the type of frequency domain filter that **attenuates the low frequency** and preserves the high frequency componnents.
+
+#### Low pass filters 
+- Low pass filter is the type of frequency domain filter that **attenuates the high frequency** and preserves the low frequency componnents.
 
 
 
