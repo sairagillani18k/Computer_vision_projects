@@ -37,11 +37,11 @@ we studied the basics operation that are very important for our cv journy and we
 
 ### Applying Filters 
 <ul>
-   <li> #### Computer vision Terminology
+   <li> <h4> Computer vision Terminology </h4>
       <ul>
-        <li>**Image filter:** The kernel is called the image filter. </li>
-        <li>**Image filtering:** The process of applying  kernel to given image is called image filtering</li>
-        <li>**Filtered image:** The output image after applying the kernel to the image is called the filtered image</li>
+         <li><b>Image filter:</b> The kernel is called the image filter. </li>
+         <li><b>Image filtering:</b> The process of applying  kernel to given image is called image filtering</li>
+         <li><b>Filtered image:</b> The output image after applying the kernel to the image is called the filtered image</li>
         
      </ul>
      
