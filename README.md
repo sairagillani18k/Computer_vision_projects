@@ -34,6 +34,8 @@ we studied the basics operation that are very important for our cv journy and we
 ![line_and_figures](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/line_and_figure.png)
 
 ![polygon](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/opencv/poloygon.png)
+<br/>
+- Image rotation and translation
 
 ### Applying Filters 
 #### Computer vision Terminology 
@@ -53,6 +55,11 @@ we studied the basics operation that are very important for our cv journy and we
 
 #### Low pass filters 
 - Low pass filter is the type of frequency domain filter that **attenuates the high frequency** and preserves the low frequency componnents.
+
+- ###### Application
+- Bulering the image
+- Sharpning the image
+- Denoising the image
 
 
 
