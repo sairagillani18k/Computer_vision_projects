@@ -43,7 +43,7 @@ we studied the basics operation that are very important for our cv journy and we
 - **Image filtering:** The process of applying  kernel to given image is called image filtering
 - **Filtered image:** The output image after applying the kernel to the image is called the filtered image <br/>
       
-![kernel](https://www.researchgate.net/profile/Chaim-Baskin/publication/318849314/figure/fig1/AS:614287726870532@1523469015098/Image-convolution-with-an-input-image-of-size-7-7-and-a-filter-kernel-of-size-3-3.png)
+![kernel](https://github.com/sairagillani18k/Computer_vision_projects/blob/main/custom_filtering/kernel_img.png)
 
 #### What is frequency in image
 - Frequency refers to the **rate of change of pixel values**.
